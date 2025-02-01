@@ -22,7 +22,6 @@ HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
 
 # Installation and Usage
-Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
 
